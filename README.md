@@ -1,1 +1,19 @@
-# prueba_colab
+# Trabajo Práctico - Port Log
+
+## Sprint 1
+
+### Objetivo
+
+Aplicar conocimientos de versionado, organización y análisis exploratorio de datos con pandas sobre un dataset real de operaciones portuarias.
+
+### Introducción y contexto
+
+El Puerto Fluvial de Rosario es uno de los complejos portuarios más importantes de América del Sur, siendo el principal punto de exportación de granos y derivados de la Argentina.
+
+El sistema de registro de movimientos portuarios fue migrado recientemente desde un sistema heredado de los años '90. Ese sistema acumuló durante décadas inconsistencias de formato en fechas, matrículas de buques y valores numéricos fuera de rango, generando registros que no pueden incorporarse directamente al nuevo sistema.
+
+El objetivo del trabajo es analizar y depurar los datos provenientes del sistema antiguo.
+
+### Estado del trabajo
+
+Configuración inicial del repositorio y preparación del dataset.
